@@ -7,6 +7,6 @@ public class FirstTest {
     @Test
     void FirstTest()
     {
-        Assertions.assertTrue(3>2);
+        Assertions.assertTrue(4>2);
     }
 }
